@@ -1,6 +1,4 @@
 @echo off
-REM Windows Utility Menu - simplified & cleaned (by Prabhat)
-REM No auto-elevation. No restore-point. Detects OneDrive Desktop for battery report.
 
 title Windows Utility Menu - Prabhat
 cls
@@ -110,3 +108,4 @@ echo.
 echo Exiting...
 timeout /t 1 >nul
 exit /b
+
